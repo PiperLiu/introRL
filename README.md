@@ -1,4 +1,11 @@
 # Notes for RL Video Lectures
+用中文记录一些强化学习笔记，比如周博磊老师的视频课程、RLChina的视频课程、论文阅读笔记。适于有一定基础的小伙伴学习的资料。
+
+### 我的笔记分布
+- 🥊 入门学习 / 读书笔记 [GitHub链接：PiperLiu/Reinforcement-Learning-practice-zh](https://github.com/PiperLiu/Reinforcement-Learning-practice-zh)
+- 💻 阅读论文 / 视频课程的笔记 [GitHub链接：PiperLiu/introRL](https://github.com/PiperLiu/introRL)
+- ✨ 大小算法 / 练手操场 [GitHub链接：PiperLiu/Approachable-Reinforcement-Learning](https://github.com/PiperLiu/Approachable-Reinforcement-Learning)
+
 ## Catalog
 - [周博磊老师的视频课程](#Bolei_Zhou)
 - [RLChina的视频课程](#RLChina)
